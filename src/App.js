@@ -6,7 +6,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Name from './Components/Name';
 import Price from './Components/Price';
 import Description from './Components/Description';
-import Images from './Components/Images';
+import Images from './Components/Image';
+
 
 function App() {
   let firstName = 'Jonathan';

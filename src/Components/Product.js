@@ -1,3 +1,4 @@
+// import React from 'react';
 import Oraimo from './Images/Oraimo powerbank.jpg';
 
 export const product = {
